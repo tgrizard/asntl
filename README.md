@@ -1,2 +1,2 @@
-# AFcld3
- AF Github and Cloudflare
+# asntl
+ AS Github and Netlify
